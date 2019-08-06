@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.Page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.Header {
+  height: 4rem;
+  line-height: 4rem;
+  font-size: 1.4rem;
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 0.2rem 0.8rem;
+}
+
+.Content {
+  padding: 1rem;
+  font-size: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  user-select: none;
+}
+
+.Players {
+  display: flex;
+  align-self: center;
+  margin-top: 2rem;
+
+  > div {
+    padding: 1rem;
+    color: #333;
+
+    &.active {
+      background: #333;
+      color: #fff;
+    }
+  }
+}
+
+.Board {
+  margin: 3rem auto 0;
+  .Row {
+    display: flex;
+    .Cell {
+      $size: 3rem;
+      width: $size;
+      height: $size;
+      background: #333;
+      margin: 0.1rem;
+    }
+  }
+}
+
+.NextTurn {
+  align-self: center;
+  padding: 0.6rem;
+  border: 1px dashed #000;
+  color: #000;
+  opacity: 0.3;
+  margin-top: 2rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
