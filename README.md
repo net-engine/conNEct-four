@@ -15,7 +15,7 @@ Animations are not expected, and any other UI components can be styled as you se
 
 Please don't swap out the technologies used – however you may add external packages provided the game logic is written by you. Feel free to organise and alter the contents of the `src` folder as you wish.
 
-Please don't spend more than 3 hours completing the task. Remember than well written and organised logic is valued more highly than a complete but rushed game.
+Please don't spend more than 3 hours completing the task. Remember that well written and organised logic is valued more highly than a complete, but rushed game.
 
 ## Setup
 
