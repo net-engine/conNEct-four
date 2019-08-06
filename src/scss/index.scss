@@ -23,9 +23,9 @@ body {
   padding: 1rem;
   font-size: 1.1rem;
   display: flex;
+  user-select: none;
   flex-direction: column;
   flex: 1;
-  user-select: none;
 }
 
 .Players {

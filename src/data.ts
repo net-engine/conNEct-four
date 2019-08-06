@@ -1,8 +1,4 @@
-interface Player {
-  name: string;
-}
-
-export const PLAYERS: Player[] = [
+export const PLAYERS = [
   { name: 'Player 1' },
   { name: 'Player 2' },
 ];

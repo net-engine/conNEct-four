@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 import PlayerDisplay from './components/PlayerDisplay';
 import Header from './components/Header';
 import Board from './components/Board';
+
 import { PLAYERS } from './data';
 
 const Main = () => {
