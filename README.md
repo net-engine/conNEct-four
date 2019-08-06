@@ -25,9 +25,10 @@ Technologies used:
 - TypeScript
 - SCSS
 
-- Run `npm i` to install the required modules.
-- Run `npm start` to start the development server.
-- Visit `http://localhost:1234`.
+
+1. Run `npm i` to install the required modules.
+2. Run `npm start` to start the development server.
+3. Visit `http://localhost:1234`.
 
 Your changes should be updated automatically in the browser.
 
