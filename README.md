@@ -1,13 +1,13 @@
 ## Task
 
-Your challenge is to complete the build of a Connect Four game, playable by two local players. The basic project setup is ready to go; the game logic and styling is up to you.
+Your task is to complete the build of a Connect Four game, playable by two local players. The basic project setup is ready to go; the game logic and styling is up to you.
 
 The game rules are as follows:
 - Each player fills one cell per turn
 - Cells can only be filled from the bottom up
 - The first player to fill four cells in a row wins
 
-Our talented designer Chelsea has provided a mockup of the game board for you to implement: https://www.figma.com/file/Him14I9maUphU81ApKmySj/Connect-4
+Our talented designer Chelsea has provided a mockup of the game board for you to implement: https://www.figma.com/file/sbHETq8VzYKpJurGBTrHhs/Connect-four
 
 Animations are not expected, and any other UI components can be styled as you see fit.
 
@@ -34,4 +34,6 @@ Your changes should be updated automatically in the browser.
 
 If you run into any build issues, try running `npm run clear-cache` to clear the parcel cache.
 
+## Submission
 
+Please zip up your finished project and email it to `adam@netengine.com.au`.
