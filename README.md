@@ -1,6 +1,6 @@
 ## Task
 
-Your task is to complete the build of a Connect Four game, playable by two local players. The basic project setup is ready to go; the game logic and styling is up to you.
+Your task is to complete the build of a Connect Four game, playable by multiple local players. The basic project setup is ready to go; the game logic and styling is up to you.
 
 The game rules are as follows:
 - Each player fills one cell per turn
