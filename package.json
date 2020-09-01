@@ -5,6 +5,7 @@
   "main": "./src/index.html",
   "scripts": {
     "start": "parcel ./src/index.html",
+    "test": "tsc",
     "clear-cache": "rm -rf .cache/*"
   },
   "keywords": [],

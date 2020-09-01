@@ -11,6 +11,8 @@ Our talented designer Chelsea has provided a mockup of the game board for you to
 
 Animations are not expected, and any other UI components can be styled as you see fit.
 
+Ideally, `npm test` should pass when you're finished.
+
 ## Constraints
 
 Please don't swap out the technologies used – however you may add external packages provided the game logic is written by you. Feel free to organise and alter the contents of the `src` folder as you wish.
